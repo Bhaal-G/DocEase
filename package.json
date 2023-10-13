@@ -9,6 +9,9 @@
     "lint": "eslint ./",
     "test": "jest"
   },
+  "engines": {
+    "node": ">=17.00.0"
+  },
   "author": "Nipurn Bhaal",
   "license": "ISC",
   "jest": {
