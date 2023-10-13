@@ -8,7 +8,4 @@ The patient can choose a date and doctor to consult, the system will automatical
 The doctor on the other hand can accept/reject the appointment, view all his current and past appointments and upload detailed prescriptions for the patient.<br/>
 
 
-### User Documentation
-
-For complete user documentation refer [UserDocumentation.md](https://github.com/Aman-Codes/MedBuddy/blob/master/docs/UserDocumentation.md)
 
